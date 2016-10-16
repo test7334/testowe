@@ -13,6 +13,8 @@ public class Main {  // klasa punkt mogłaby się znaleźć także w tym pliku,
 		
 		
 //		Punkt pomocniczyPunkt; 
+
+        //tu jest nowa zmiana!
 	
 		Punkt pomocniczyPunkt = new Punkt(); 
 		
